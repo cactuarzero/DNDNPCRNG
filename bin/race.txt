@@ -1,0 +1,16 @@
+-Dragonborn
+-Hill Dwarf
+-Mountain Dwarf
+-Elf
+-Drow
+-Half Elf
+-High Elf
+-Wood Elf
+-Forest Gnome
+-Rock Gnome
+-Lightfoot Halfling
+-Stout Halfling
+-Half Orc
+-Human
+-Tiefling
+-End
