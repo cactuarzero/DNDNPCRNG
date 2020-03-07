@@ -1,2 +1,2 @@
 # DNDNPCRNG
-Random Dungeons and Dragons NPC Generator
+Dungeons and Dragons NPC Generator
