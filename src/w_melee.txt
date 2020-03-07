@@ -1,0 +1,29 @@
+-Club; L
+-Dagger; Finesse, L, Thrown(20/60)
+-Greatclub; 2H
+-Handaxe; L, Thrown(20/60)
+-Javelin; Thrown(30/120)
+-Light Hammer; L, Thrown(20/60)
+-Mace
+-Quarterstaff; Versatile (1d8)
+-Sickle; L
+-Spear; Thrown(20/60) Versatile(1d8)
+-Battleaxe; Versatile(1d10)
+-Flail
+-Glaive; H, Reach, 2H
+-Greataxe; H, 2H
+-Greatsword; H, 2H
+-Halberd; H, Reach, 2H
+-Lance: Reach, Special
+-Longsword; Versatile(1d10)
+-Maul; H, 2H
+-Morningstar
+-Pike; H, Reach, 2H
+-Rapier; Finesse
+-Scimitar; Finesse, L
+-Shortsword; Finesse, L
+-Trident; Thrown(20/60), Versatile(1d8)
+-War Pick
+-Warhammer; Versatile (1d10)
+-Whip; Finesse, Reach
+-End

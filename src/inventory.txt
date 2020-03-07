@@ -1,0 +1,83 @@
+-Abacus
+-Acid (vial)
+-Alchemist's fire (flask)
+-Antitoxin (vial)
+-Backpack
+-Ball bearings (bag of 1,000)
+-Barrel
+-Basket
+-Bedroll
+-Bell
+-Blanket
+-Block and tackle
+-Book
+-Bottle, glass
+-Bucket
+-Caltrops (bag of 20)
+-Candle
+-Case, crossbow bolt
+-Case, map or scroll
+-Chain (10 feet)
+-Chalk (1 piece)
+-Chest
+-Climber's kit
+-Clothes, common
+-Clothes, costume
+-Clothes, fine
+-Clothes, traveler's
+-Component pouch
+-Crowbar
+-Fishing tackle
+-Flask or tankard
+-Grappling hook
+-Hammer
+-Hammer, sledge
+-Healer's kit
+-Holy water (flask)
+-Hourglass
+-Hunting trap
+-Ink (1 ounce bottle)
+-Ink pen
+-Jug or pitcher
+-Ladder (10 foot)
+-Lamp
+-Lantern, bullseye
+-Lantern, hooded
+-Lock
+-Magnifying glass
+-Manacles
+-Mess kit
+-Mirror, steel
+-Oil (flask)
+-Paper (one sheet)
+-Parchment (one sheet)
+-Perfume (vial)
+-Pick, miner's
+-Piton
+-Poison, basic (vial)
+-Pole (10 foot)
+-Pot, iron
+-Potion of healing
+-Pouch
+-Quiver
+-Ram, portable
+-Rations (1 day)
+-Robes
+-Rope, hempen (50 feet)
+-Rope, silk (50 feet)
+-Sack
+-Scale, merchant's
+-Sealing wax
+-Shovel
+-Signal whistle
+-Signet ring
+-Soap
+-Spellbook
+-Spikes, iron (10)
+-Spyglass
+-Tent, two person
+-Tinderbox
+-Torch
+-Vial
+-Waterskin
+-Whetstone

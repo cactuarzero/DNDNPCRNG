@@ -1,0 +1,13 @@
+-Draconic
+-Elvish
+-Dwarvish
+-Halfling 
+-Gnomish	
+-Orc
+-Infernal
+-Celestial
+-Giant
+-Goblin
+-Deep Speech
+-Primodial
+-End 	
